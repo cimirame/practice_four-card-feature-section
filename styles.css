@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana;
+}
+
+body {
+    background: gray;
+}
+
+.cuadro1,
+.cuadro2,
+.cuadro3,
+.box4 {
+    background: white;
+    color: #000000;
+    margin: 0 auto;
+    width: 200px;
+    border-top: 6px solid;
+    border-radius: 2px;
+}
+
+.cuadro2 {
+    border-top-color: red;
+}
